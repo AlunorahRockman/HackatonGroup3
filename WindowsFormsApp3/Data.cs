@@ -10,6 +10,7 @@ namespace WindowsFormsApp3
     public class Data
     {
         private static MySqlConnection Connection = new MySqlConnection("Server=localhost;User=root;password=;Database=Store;");
+        string test = "rindra";
         public static List<Administrateur> GetListAdmin()
         {
             List<Administrateur> admin = new List<Administrateur>();
