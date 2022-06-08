@@ -1,0 +1,11 @@
+C:\Users\AINA\source\repos\Hackathon\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\AINA\source\repos\Hackathon\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\AINA\source\repos\Hackathon\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\AINA\source\repos\Hackathon\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+C:\Users\AINA\source\repos\Hackathon\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\AINA\source\repos\Hackathon\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+C:\Users\AINA\source\repos\Hackathon\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\AINA\source\repos\Hackathon\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\AINA\source\repos\Hackathon\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\AINA\source\repos\Hackathon\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Login.resources
+C:\Users\AINA\source\repos\Hackathon\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Loginwa.resources
